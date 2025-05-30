@@ -1,0 +1,12 @@
+train: 'D:/User/Desktop/ultralytics/data/mix_data/train'  # train images (relative to 'path') 128 images
+val: 'D:/User/Desktop/ultralytics/data/mix_data/val'  # val images (relative to 'path') 128 images
+test: 'D:/User/Desktop/ultralytics/data/mix_data/test'  # test images (optional)
+
+nc: 2
+
+# Classes
+names:
+    0: strawberry
+    1: stem
+
+
